@@ -5,6 +5,9 @@ Keyword: picon, picons
 picon-in-opendreambox-2.5-Diskussion:
  http://dreambox.de/board/index.php?thread/22782
 
+Benötigt ``enigma2-plugin-systemplugins-jsonapi`` auf der dreambox.
+Lokal wird PHP 5.6+ benötigt.
+
 
 Ordner
 ------
